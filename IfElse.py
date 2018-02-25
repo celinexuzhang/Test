@@ -6,4 +6,4 @@ elif n % 2 == 0 and n in range(2, 6) or n > 20:
     print('Not Weird')
 
 
-print('Rico is so cool!')
+print('Rico is so cool and so is Celine!')
